@@ -5,7 +5,10 @@
 - 🌱 *Atualmente estou cursando a disciplina de pensamento computacional*
 - 💞️ Não estou interessada em colaborar com ninguém
 - 📫 Para palar comigo use [email](edimara.vieira@escola.pr.gov.br)
+- Para me seguir: https://github.com/Edim4r4Vieir4
+
 ![This is an image](https://1.bp.blogspot.com/-OyV8XwES_2o/XxR6I36jzWI/AAAAAAAAeQY/tiOT9HuxEHUGQ_qyIMQK4OnrLHX9aW37wCNcBGAsYHQ/s1600/1.png)
+
 
 
 <!---
