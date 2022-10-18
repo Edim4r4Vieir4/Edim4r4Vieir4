@@ -1,9 +1,9 @@
 # Sobre mim
 ## Edimara Fernandes Vieira
 - 👋 Olá, sou professora de Física pela SEED
-- 👀 Meu principal interess é aprender a programar
+- 👀 Meu principal interesse é aprender a programar
 - 🌱 *Atualmente estou cursando a disciplina de pensamento computacional*
-- 💞️ Não estou interessada em colaborar com ninguém
+- 💞️ Não estou interessada em colaborar com ninguém (mentirinha sem graça!)
 - 📫 Para palar comigo use [email](edimara.vieira@escola.pr.gov.br)
 - Para me seguir: https://github.com/Edim4r4Vieir4
 
