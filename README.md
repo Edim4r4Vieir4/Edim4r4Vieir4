@@ -1,4 +1,5 @@
 # Sobre mim
+- plataforma Lattes: https://lattes.cnpq.br/3409969030735734
 ## Edimara Fernandes Vieira
 - 👋 Olá, sou professora de Física pela SEED
 - 👀 Meu principal interesse é aprender a programar
