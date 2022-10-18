@@ -2,9 +2,11 @@
 ## Edimara Fernandes Vieira
 - 👋 Olá, sou professora de Física pela SEED
 - 👀 Meu principal interess é aprender a programar
-- 🌱 Atualmente estou cursando a disciplina de pensamento computacional
+- 🌱 *Atualmente estou cursando a disciplina de pensamento computacional*
 - 💞️ Não estou interessada em colaborar com ninguém
 - 📫 Para palar comigo use [email](edimara.vieira@escola.pr.gov.br)
+![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://1.bp.blogspot.com/-OyV8XwES_2o/XxR6I36jzWI/AAAAAAAAeQY/tiOT9HuxEHUGQ_qyIMQK4OnrLHX9aW37wCNcBGAsYHQ/s1600/1.png))
+
 
 <!---
 Edim4r4Vieir4/Edim4r4Vieir4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
