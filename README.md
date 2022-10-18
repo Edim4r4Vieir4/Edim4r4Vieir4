@@ -1,4 +1,5 @@
-# Edimara Fernandes Vieira
+# Sobre mim
+## Edimara Fernandes Vieira
 - 👋 Olá, sou professora de Física pela SEED
 - 👀 Meu principal interess é aprender a programar
 - 🌱 Atualmente estou cursando a disciplina de pensamento computacional
